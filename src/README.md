@@ -1,3 +1,5 @@
+NOTE: Fork created to make Null data type php7 compatible.
+
 ### [DataTypes](DataTypes)
 
 All data types defined in the
